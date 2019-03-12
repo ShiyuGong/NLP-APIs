@@ -10,3 +10,5 @@ Sentiment analysis is a subfield of NLP and could be applied systematically to i
 ## Technique
 
 Firstly, the Yelp review dataset collected from Kaggle contains 10K records of Yelp reviews. Each of them has the stars (1-5) and text review provided by customers. The chart below gives us a first look on how the data spread. We can see that the rating tends to be relatively positive (68% of the ratings > = 4), which may be due to the fact that unhappy customers tend to just leave instead of making efforts to rate. Examples of reviews with low ratings and high ratings are as follows.
+
+<img width="214" alt="table" src="https://user-images.githubusercontent.com/43686840/54180485-064d0600-4459-11e9-935f-739618c99aa1.png">
